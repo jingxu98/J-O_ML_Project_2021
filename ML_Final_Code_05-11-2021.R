@@ -1,5 +1,5 @@
 ### ML Final Project Analysis ###
-# Name: Olivai Delau & Jing Xu
+# Name: Olivia Delau & Jing Xu
 
 ### Packages you may need ######################################################
 rm(list=ls())
